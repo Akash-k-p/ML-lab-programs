@@ -1,0 +1,71 @@
+images/logo-with-clg1.svg
+images/aboutusImage.jpg
+images/navbarPic1.jpg
+images/get-quote-button.jpg
+images/call.jpg
+images/mail.jpg
+admin-kvgce\images\banner\thought.png
+admin-kvgce/images/banner/kambala.png
+admin-kvgce\images\banner\4.png
+admin-kvgce\images\banner\talent.png
+admin-kvgce\images\banner\7.png
+admin-kvgce\images\banner\TCS.png
+admin-kvgce\images\banner\3.png
+admin-kvgce/photos/slider/Highest-Paid-Programming-Languages-in-2019.jpg
+admin-kvgce/photos/slider/Ethical-Problem-of-Artificial-Intelligence-4.jpg
+admin-kvgce/photos/slider/c3.jpg
+admin-kvgce/photos/slider/eng_1200x768.webp
+admin-kvgce/photos/slider/Civil-Engineerng.jpg
+admin-kvgce/photos/slider/mba.jpg
+images/newsandevents/phy.jpg
+images/newsandevents/ethinic.png
+images/newsandevents/rea.png
+images/newsandevents/VAYU1.png
+images/newsandevents/tech.jpg
+images/newsandevents/smart.jpg
+images/newsandevents/womens.jpeg
+images/newsandevents/tishan1.png
+images/newsandevents/founder/rp sir.jpeg
+images/newsandevents/inagu.jpeg
+images\ba1.png
+achivers/7.jpg
+achivers/5.jpg
+achivers/6.jpg
+achivers/Raveesh Rao.svg
+achivers/varshith kh.svg
+achivers/arun.svg
+images/Clients/Ample.gif
+images/Clients/Bosch.png
+images/Clients/Global Edge.jpg
+images/Clients/HP.jpg
+images/Clients/IBM.jpg
+images/Clients/Indian Army.gif
+images/Clients/Infosys.jpg
+images/Clients/JSW.jpg
+images/Clients/Larsen Toubro.jpg
+images/Clients/Magna Infotech.gif
+images/Clients/Mindtree.png
+images/Clients/MU Sigma.jpg
+images/Clients/Neo Bytes.jpg
+images/Clients/Quinnox.png
+images/Clients/Robosoft.jpeg
+images/Clients/Sankalp.gif
+images/Clients/Sasken.png
+images/Clients/SLK Software.jpg
+images/Clients/Tech Jini.png
+images/testimonials/ashwitha.jpg
+https://desklib.com/static/src/assets/images/v2/star_rating.svg
+images/testimonials/arpitha.jpg
+https://desklib.com/static/src/assets/images/v2/star_rating.svg
+images/testimonials/ajna.jpg
+https://desklib.com/static/src/assets/images/v2/star_rating.svg
+images/gallery/first.jpg
+images/gallery/two.jpg
+images/gallery/civil1.jpg
+images/gallery/civil2.jpg
+images/gallery/cs1.jpg
+images/gallery/cs2.jpg
+images/gallery/ec1.jpg
+images/gallery/ec2.jpg
+images/gallery/mech1.jpg
+images/gallery/mech2.jpg
